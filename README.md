@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi! 👋 I'm William Yue.
+
+### Things I'm working on
+- 🤖 [SPRL](https://github.com/willwin4sure/sprl), a self-play reinforcement learning framework based on AlphaGo Zero for solving games like Chess and Go.
+- ⚡ [flash](https://github.com/willwin4sure/flash), a basic C++ client-server networking framework, designed for multiplayer games but widely applicable.
+- ☀️ [flare](https://github.com/stuffyp/solar-flare), a cooperative multiplayer roguelike bullet hell built from scratch in C++ on OpenGL and SDL2.
+
+### Things I'm learning
+- 🔒 Check out my public Obsidian [vault](https://github.com/willwin4sure/vault) for various (rather incomplete) course notes.
+
+### Some past projects
+- 💡 [Inductive bias complexity](https://github.com/FieteLab/inductive-bias-complexity) code for research paper: https://www.ijcai.org/proceedings/2024/0413.pdf.
+- ♾️ [Lattice homology](https://github.com/willwin4sure/lattice-homology/) code for research paper: https://arxiv.org/abs/2110.13405. 
+
+### Reach out
+- 📫 Shoot me an email at [willyue@mit.edu](mailto:willyue@mit.edu).
 
 <!--
 **willwin4sure/willwin4sure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
