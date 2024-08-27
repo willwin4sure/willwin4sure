@@ -9,7 +9,7 @@
 - 🔒 Check out my public Obsidian [vault](https://github.com/willwin4sure/vault) for various (rather incomplete) course notes.
 
 ### Some past projects
-- 💡 [Inductive bias complexity](https://github.com/FieteLab/inductive-bias-complexity) code for research paper: https://www.ijcai.org/proceedings/2024/0413.pdf.
+- 💡 [Inductive bias complexity](https://github.com/FieteLab/Exact-Inductive-Bias) code for research paper: https://www.ijcai.org/proceedings/2024/0413.pdf.
 - ♾️ [Lattice homology](https://github.com/willwin4sure/lattice-homology/) code for research paper: https://arxiv.org/abs/2110.13405. 
 
 ### Reach out
