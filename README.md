@@ -1,7 +1,7 @@
 ## Hi! 👋 I'm William Yue.
 
 ### Things I'm working on
-- 😞 [sorrow](https://github.com/willwin4sure/sorrow), counterfactual regret minimization techniques in C++, built for team Pineapple, winners of MIT Pokerbots 2024 and 2025.
+- 😞 [sorrow](https://github.com/willwin4sure/sorrow), CFR techniques in C++, built for team Pineapple, winners of MIT Pokerbots 2024 and 2025.
 - 🤖 [SPRL](https://github.com/willwin4sure/sprl), a self-play reinforcement learning framework based on AlphaGo Zero for solving games like Chess and Go.
 - ⚡ [flash](https://github.com/willwin4sure/flash), a basic C++ client-server networking framework, designed for multiplayer games but widely applicable.
 - ☀️ [flare](https://github.com/stuffyp/solar-flare), a cooperative multiplayer roguelike bullet hell built from scratch in C++ on OpenGL and SDL2.
